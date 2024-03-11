@@ -1,1 +1,1 @@
-console.log('Piotr Żuławnik,  48689');
+console.log('My name is Piotr Żuławnik. My student ID is 48689');
